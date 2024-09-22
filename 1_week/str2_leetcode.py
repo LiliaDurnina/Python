@@ -1,3 +1,6 @@
+"""https://leetcode.com/problems/longest-palindromic-substring/?envType=problem-list-v2&envId=string&difficulty=MEDIUM%2CHARD"""
+
+
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         palindrome = s[0]
